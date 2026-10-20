@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "asgi-sessions",
+  "versions": [
+    {
+      "commit": "bc83d86f7c79ace1dfde93a3561bb22348912e4e",
+      "parsed_at": "2026-10-20T21:14:59.886470+00:00",
+      "tag": "1.3.0",
+      "filetree": "filetree/bc83d86f7c79ace1dfde93a3561bb22348912e4e.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6614487bd14cfef52707f44df71db1ec3b0ff124.nq.gz",
+        "blob/32cd411778a0827a5ed910f9b06bffe2739bbc4b.nq.gz",
+        "blob/c170db324bd1094adb90facd6e700e2c3f6f0417.nq.gz",
+        "blob/97bb86ca44080a201660fc341f1d3f41bed85286.nq.gz",
+        "blob/3fd76f24e34b0aa33aa0f4339373b5120b0ba2d6.nq.gz",
+        "blob/173e3e3451628279dc77d4ad893e3efb60cc3da9.nq.gz",
+        "blob/2247d5f95a7193c7221b9464debe167763b4fae3.nq.gz",
+        "blob/20c850c6a393ec7d20a769f5602ead5f785d716d.nq.gz",
+        "blob/ab4d5aa6736673c2612144bfb28b2a56f9bb81a1.nq.gz",
+        "blob/1f131f7c4c3c1b431dc91dbf4388abacbc5818e9.nq.gz",
+        "blob/a6fde06370cd994163972128ddb31c4cdcec5ee8.nq.gz",
+        "blob/4f918468371e898e949aeeba02cfe0e5203b0785.nq.gz",
+        "blob/ec0141a562a86028de729afd7b62928b5e580a59.nq.gz",
+        "blob/0d7db2e70341d714b105c6f518ededec1b6c0b2b.nq.gz",
+        "blob/7ff3010f7bc0e8115494a194539f511b132d1765.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
